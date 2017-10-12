@@ -1,0 +1,9 @@
+﻿////ioCog Bindings File
+////Tower of Hanoi
+////Rob Lewis
+////4 Aug 2017
+
+CSVBind Disk(
+	Bindings (Size, Peg)
+);
+
